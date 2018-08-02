@@ -17,6 +17,18 @@
   },
   "homepage": "https://github.com/CPerill/P4SDiscordJSBot#readme",
   "dependencies": {
-    "discord.js": "^11.3.2"
+    "discord.js": "^11.3.2",
+    "body-parser": "^1.5.2",
+    "cron": "^1.3.0",
+    "dotenv": "^1.1.0",
+    "express": "~4.7.2",
+    "method-override": "~2.1.2",
+    "moment": "^2.22.2",
+    "mongoose": "^4.7.6",
+    "mongoose-crate": "^1.0.10",
+    "mongoose-crate-localfs": "^1.1.1",
+    "multer": "^1.3.1",
+    "nodemailer": "^4.6.7",
+    "swagger-ui-express": "^3.0.10"
   }
 }
