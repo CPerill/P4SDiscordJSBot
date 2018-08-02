@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/CPerill/P4SDiscordJSBot/issues"
   },
-  "homepage": "https://github.com/CPerill/P4SDiscordJSBot#readme"
+  "homepage": "https://github.com/CPerill/P4SDiscordJSBot#readme",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
 }
